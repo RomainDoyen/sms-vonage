@@ -28,11 +28,11 @@ VONAGE_AUTH_TOKEN=your_auth_token
 ## Install
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Run
 
 ```bash
-npm run dev
+pnpm run dev
 ```

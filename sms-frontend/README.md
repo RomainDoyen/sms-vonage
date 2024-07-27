@@ -1,11 +1,11 @@
 # Install
 
 ```bash
-npm install
+pnpm install
 ```
 
 # Run
 
 ```bash
-npm run dev
+pnpm run dev
 ```
